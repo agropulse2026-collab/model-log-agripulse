@@ -1,0 +1,19 @@
+| Metric              | Original | Fine-tuned |       Change |
+| ------------------- | -------: | ---------: | -----------: |
+| Validation accuracy |   94.78% | **95.37%** | **+0.59 pp** |
+| Macro F1            |   93.80% | **94.38%** | **+0.58 pp** |
+| Weighted F1         |   94.84% | **95.38%** | **+0.54 pp** |
+
+| Class               | Original F1 | Fine-tuned F1 |
+| ------------------- | ----------: | ------------: |
+| Tomato Target Spot  |      75.04% |    **80.58%** |
+| Potato healthy      |      80.65% |    **84.75%** |
+| Tomato Spider Mites |      83.04% |    **85.02%** |
+| Tomato Leaf Mold    |      83.25% |    **85.29%** |
+| Tomato Septoria     |      83.90% |    **85.98%** |
+| Tomato Late Blight  |      88.79% |    **90.37%** |
+
+Classes that showed poor improvement
+Tomato Early Blight
+F1: 72.73% → 73.37%
+Recall: 64.52% → 66.67%

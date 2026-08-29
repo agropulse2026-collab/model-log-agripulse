@@ -1,0 +1,3 @@
+Total MobileNetV2 layers: 154
+Trainable MobileNetV2 layers: 30
+
