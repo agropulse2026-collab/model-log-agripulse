@@ -1,0 +1,40 @@
+Training samples: 43444
+ 0 | Apple___Apple_scab                                      | 504
+ 1 | Apple___Black_rot                                       | 489
+ 2 | Apple___Cedar_apple_rust                                | 220
+ 3 | Apple___healthy                                         | 1316
+ 4 | Blueberry___healthy                                     | 1207
+ 5 | Cherry_(including_sour)___Powdery_mildew                | 820
+ 6 | Cherry_(including_sour)___healthy                       | 687
+ 7 | Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot      | 405
+ 8 | Corn_(maize)___Common_rust_                             | 973
+ 9 | Corn_(maize)___Northern_Leaf_Blight                     | 790
+10 | Corn_(maize)___healthy                                  | 935
+11 | Grape___Black_rot                                       | 906
+12 | Grape___Esca_(Black_Measles)                            | 1115
+13 | Grape___Leaf_blight_(Isariopsis_Leaf_Spot)              | 854
+14 | Grape___healthy                                         | 338
+15 | Orange___Haunglongbing_(Citrus_greening)                | 4401
+16 | Peach___Bacterial_spot                                  | 1831
+17 | Peach___healthy                                         | 279
+18 | Pepper,_bell___Bacterial_spot                           | 780
+19 | Pepper,_bell___healthy                                  | 1184
+20 | Potato___Early_blight                                   | 797
+21 | Potato___Late_blight                                    | 798
+22 | Potato___healthy                                        | 127
+23 | Raspberry___healthy                                     | 295
+24 | Soybean___healthy                                       | 4091
+25 | Squash___Powdery_mildew                                 | 1476
+26 | Strawberry___Leaf_scorch                                | 880
+27 | Strawberry___healthy                                    | 361
+28 | Tomato___Bacterial_spot                                 | 1689
+29 | Tomato___Early_blight                                   | 814
+30 | Tomato___Late_blight                                    | 1533
+31 | Tomato___Leaf_Mold                                      | 763
+32 | Tomato___Septoria_leaf_spot                             | 1436
+33 | Tomato___Spider_mites Two-spotted_spider_mite           | 1342
+34 | Tomato___Target_Spot                                    | 1125
+35 | Tomato___Tomato_Yellow_Leaf_Curl_Virus                  | 4313
+36 | Tomato___Tomato_mosaic_virus                            | 296
+37 | Tomato___healthy                                        | 1274
+

@@ -1,0 +1,11 @@
+Tomato___Early_blight: F1=0.727, Precision=0.833, Recall=0.645, Support=186
+Tomato___Target_Spot: F1=0.750, Precision=0.628, Recall=0.932, Support=279
+Potato___healthy: F1=0.806, Precision=0.676, Recall=1.000, Support=25
+Tomato___Spider_mites Two-spotted_spider_mite: F1=0.830, Precision=0.882, Recall=0.784, Support=334
+Tomato___Leaf_Mold: F1=0.833, Precision=0.760, Recall=0.921, Support=189
+Tomato___Septoria_leaf_spot: F1=0.839, Precision=0.921, Recall=0.770, Support=335
+Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot: F1=0.846, Precision=0.786, Recall=0.917, Support=108
+Tomato___Late_blight: F1=0.888, Precision=0.951, Recall=0.832, Support=376
+Tomato___Bacterial_spot: F1=0.894, Precision=0.884, Recall=0.904, Support=438
+Corn_(maize)___Northern_Leaf_Blight: F1=0.900, Precision=0.949, Recall=0.856, Support=195
+
