@@ -1,0 +1,9 @@
+{
+    "image_size": [
+        224,
+        224
+    ],
+    "color_mode": "RGB",
+    "num_classes": 38,
+    "preprocessing": "mobilenet_v2.preprocess_input"
+}
